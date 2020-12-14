@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "182617458185",
+    "project_id": "k-town-ee5a0",
+    "storage_bucket": "k-town-ee5a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182617458185:android:3ea2d03edc4fb3b4f99ad8",
+        "android_client_info": {
+          "package_name": "com.lugowski.ktown"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182617458185-5mou11l5sgsrgqcd8p69dh78errohl4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUrCpf_kaW241_nqpLDdGQqDQb6w55gnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182617458185-5mou11l5sgsrgqcd8p69dh78errohl4v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
